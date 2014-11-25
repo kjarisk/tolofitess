@@ -16,3 +16,6 @@ Refer to the "Developing for Drupal" section of the README.txt in the Drupal
 root directory for further information on extending Drupal with custom modules.
 
 makeing something new here
+
+
+this is the feature branch that we ar working on now, this will be alot of fun working with, weeeeee......
