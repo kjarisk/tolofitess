@@ -18,4 +18,8 @@ root directory for further information on extending Drupal with custom modules.
 makeing something new here
 
 
-this is the feature branch that we ar working on now, this will be alot of fun working with, weeeeee......
+this is the feature branch that we ar working on now, 
+
+
+
+This is something new around the feature
