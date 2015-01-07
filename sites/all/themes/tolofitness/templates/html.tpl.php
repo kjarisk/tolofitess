@@ -3,6 +3,8 @@
 <head>
 <?php print $head; ?>
 <title><?php print $head_title; ?></title>
+<script src="//use.typekit.net/hoz5zoe.js"></script>
+<script>try{Typekit.load();}catch(e){}</script>
 <?php print $styles; ?>
 <?php print $scripts; ?>
 <!--[if lt IE 9]><script src="<?php print base_path() . drupal_get_path('theme', 'tolofitness') . '/js/html5.js'; ?>"></script><![endif]-->
