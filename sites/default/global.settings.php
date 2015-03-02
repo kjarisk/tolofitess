@@ -1,5 +1,5 @@
 <?php
-/**
+/*
  * String overrides:
  *
  * To override specific strings on your site with or without enabling the Locale
@@ -16,4 +16,3 @@
 #   '@count min' => '@count minutes',
 # );
 
-/**

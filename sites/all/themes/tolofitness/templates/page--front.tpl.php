@@ -143,8 +143,8 @@
         <div class="row">
          
               <div class="preface-block col-sm-6">
-                <h3 class="tolo_fitnessk"><i class="fa fa-star"></i>&nbsp;Fitnesskonkurranse</h3>
-                <img src="<?php print base_path() . drupal_get_path('theme', 'tolofitness') . '/images/20150105_fitnesskonkuranse.jpg'; ?>" /> 
+                <h3 class="tolo_fitnessk"><i class="fa fa-star"></i>&nbsp;Verv en venn</h3>
+                <img src="<?php print base_path() . drupal_get_path('theme', 'tolofitness') . '/images/2015_02_22_verv_en_venn.png'; ?>" /> 
                 <?php print render ($page['preface_first']); ?>
               </div>
       
@@ -192,6 +192,12 @@
               </div>
               <div class="col-sm-2">
                <img src="<?php print base_path() . drupal_get_path('theme', 'tolofitness') . '/images/footerLogo_gymline.png'; ?>" />
+              </div>
+              <div class="col-sm-2">
+               <img src="<?php print base_path() . drupal_get_path('theme', 'tolofitness') . '/images/wexer.png'; ?>" />
+              </div>
+              <div class="col-sm-2">
+               <img src="<?php print base_path() . drupal_get_path('theme', 'tolofitness') . '/images/vismoX.png'; ?>" />
               </div>
              
           </section>
